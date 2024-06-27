@@ -1,0 +1,10 @@
+{
+  "development": {
+    "preview": "https://flamboyant-kowalevski.142-93-132-204.plesk.page/",
+    "version": "e8d1bfa",
+    "git": "e8d1bfa",
+    "title": "Experimental nebula movements",
+    "time": "Jun 17, 2024"
+  },
+  "production": false
+}
